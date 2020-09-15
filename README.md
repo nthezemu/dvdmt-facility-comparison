@@ -11,10 +11,11 @@ district
 dvdmt_name
 dhis2_name
 
-You need to extract the columns (Province_name up to Name_HF) from the DVDMT and rename them to 
+You need to extract the columns (Province_name up to month) from the DVDMT and rename remove other unnecessary columns and rename them to 
 zone
 district
 dvdmt_name
+month
 
 Once you have done that you should save your file as dvdmt_file.xlxs 
 
